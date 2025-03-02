@@ -1,16 +1,41 @@
 
-# 👋 Hello, I'm Alexandro!
+# Hello, I'm Alexandro!
 
-🎓 Student in Data & Finance at PSL- Mines de Paris   
-📊 Passionate about data analysis, machine learning and quantitative finance  
-🚀 Looking for an internship in **Quantitative trading/research, Financial Analysis, risk modeling** (october 2025)
+🎓 Student in Data & Finance at PSL - Mines de Paris   
+   Passionate about data analysis, machine learning and quantitative finance  
+   Looking for an internship in **Quantitative trading/research, Financial Analysis, risk modeling** (october 2025)
 
 ---
 
+### Professional Expirence
+Ex Data analyste interne at **Edmond De Rothschild**
+
+---
+
+### Hackathon 
+
+**GOOGLE**
+- Recommend the ideal set up to answer beauty market client needs
+- Identify the best methodology for a design test, for google advertising purpose (SEA)
+- Support the client making the test design, with the budget impact and geo concerned
+- Unsupervised ML for client segmentation
+
+**PERNOT RICARD**
+- Analysis of carbon footprint by distribution zone
+- Insights for improving the circularity of their products
+- NLP model development to find class matches, used in sentiment analysis
+
+**ACCORD**
+- Identify seasonality and correlation in customer reviews, for +153 hotel
+- Provide auto-generating a quarterly and semi annual report of action to take by hotel manager
+- Development of NLP model in dashboard report with the most important sub-topics impacting customer satisfaction.
+  
+---
+
 ### 📌 here you'll find some of the projects I've been able to make public  :
-- 💰 **Projects in corporate strategy and data science on customer Churn** 📊  
-- 🧠 **Machine learning models applied to real estate markets**  
-- 📈 **Exploration of Model optimization**
+-  **Projects in corporate strategy and data science on customer Churn** 📊  
+-  **Machine learning models applied to real estate markets**  
+-  **Exploration of Model optimization**
   
 ---
 
