@@ -25,7 +25,7 @@ Ex Data analyste interne at **Edmond De Rothschild**
 - Insights for improving the circularity of their products
 - NLP model development to find class matches, used in sentiment analysis
 
-**ACCORD**
+**ACCOR**
 - Identify seasonality and correlation in customer reviews, for +153 hotel
 - Provide auto-generating a quarterly and semi annual report of action to take by hotel manager
 - Development of NLP model in dashboard report with the most important sub-topics impacting customer satisfaction.
