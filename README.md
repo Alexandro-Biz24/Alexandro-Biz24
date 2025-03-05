@@ -8,7 +8,8 @@
 ---
 
 ### Professional Expirence
-Ex Data analyste interne at **Edmond De Rothschild**
+Ex Data analyste interne at **Edmond De Rothschild** <img src="edmond-de-rothschild-logo-vector" alt="EDR LOGO" width="400">
+
 
 ---
 
