@@ -11,29 +11,29 @@ I'm passionate about **quantitative finance**, **algorithmic trading**, and **ma
 
 ## 💼 Professional Experience
 
-** Edmond de Rothschild AM** – *Quantitative Developer* - AUG 2025-Now
+**Edmond de Rothschild AM** – *Quantitative Developer* - AUG 2025-Now
 Development of pricing and optimization models • Market simulation tools under stochastic assumptions
 
-** Edmond de Rothschild AM** – *Data Scientist Intern* - Jun 2024-DEC 2024
+**Edmond de Rothschild AM** – *Data Scientist Intern* - Jun 2024-DEC 2024
 Built alpha signals using ML • Economic event EDA for prediction of AUM flows • Presented to partners
 
 ---
 
 ## Competitions & Projects
 
-** IMC Trading – Global Quant Challenge (Top 1%)**  
+**IMC Trading – Global Quant Challenge (Top 1%)**  
 Options arbitrage (Delta/Vega hedging) • ETF pricing divergence • Real-time ML signal
 
-** Google Hackathon**  
+**Google Hackathon**  
 Test design strategy for Google Ads • Unsupervised clustering for market segmentation
 
-** Edmond de Rothschild AM – Quantitative Research Challenge (Won 1st place) **  
+**Edmond de Rothschild AM – Quantitative Research Challenge (Won 1st place)**  
 Built alpha signals using ML • Economic event-based prediction of AUM flows • Presented to partners
 
-** Pernod Ricard Hackathon**  
+**Pernod Ricard Hackathon**  
 Carbon footprint analysis by region • Circularity insights • NLP model for classification
 
-** Accor Hackathon**  
+**Accor Hackathon**  
 Time series + NLP on 150+ hotels reviews • Auto-generated reporting dashboards
 
 ---
