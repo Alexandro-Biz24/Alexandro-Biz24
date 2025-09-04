@@ -20,7 +20,7 @@ Built alpha signals using ML • Economic event EDA for prediction of AUM flows 
 ---
 
 ## Competitions & Projects
-**vQuantitative Research on Volatility-conditioned forecasting**, LSTM-AE and VAE based model
+**Quantitative Research on Volatility-conditioned forecasting**, LSTM-AE and VAE based model
 Inspired by Derek Snow's research, I explore short-term regime analysis and alpha signal construction.
 
 **IMC Trading – Global Quant Challenge (Top 1%)**  
