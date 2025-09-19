@@ -3,7 +3,8 @@
 🎓 MSc student in Data for Finance (PSL – Mines Paris & Albert School)  
 💼 Quantitative Developer @ Edmond de Rothschild AM (apprenticeship)  
 🏆 1st place – Quantitative Research Challenge (EDR Asset Management, 2024)  
-🥇 Top 1% Algorithm Trading Competitions (IMC Trading)
+🥇 Top 1% - Algorithm Trading Competitions (IMC Trading, 2024 )
+🏅 Top 10 (9th place) - Systematic Trading Hckathon (Morgan Stanley, 2025)
 
 I'm passionate about **quantitative finance**, **algorithmic trading**, and **machine learning**.   
 
@@ -26,8 +27,8 @@ Inspired by Derek Snow's research, I explore short-term regime analysis and alph
 **IMC Trading – Global Quant Challenge (Top 1%)**  
 Options arbitrage (Delta/Vega hedging) • ETF pricing divergence • Real-time ML signal
 
-**Google Hackathon**  
-Test design strategy for Google Ads • Unsupervised clustering for market segmentation
+**Morgan Stanley – Systematic Trading Hackathone (Top 10)**  
+FX arbitrage around a Dynamic True Faire Value 
 
 **Edmond de Rothschild AM – Quantitative Research Challenge (Won 1st place)**  
 Built alpha signals using ML • Economic event-based prediction of AUM flows • Presented to partners
