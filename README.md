@@ -3,7 +3,7 @@
 🎓 MSc student in Data for Finance (PSL – Mines Paris & Albert School)  
 💼 Quantitative Developer @ Edmond de Rothschild AM (apprenticeship)  
 🏆 1st place – Quantitative Research Challenge (EDR Asset Management, 2024)  
-🥇 Top 1% - Algorithm Trading Competitions (IMC Trading, 2024 )
+🥇 Top 1% - Algorithm Trading Competitions (IMC Trading, 2024 )  
 🏅 Top 10 (9th place) - Systematic Trading Hckathon (Morgan Stanley, 2025)
 
 I'm passionate about **quantitative finance**, **algorithmic trading**, and **machine learning**.   
