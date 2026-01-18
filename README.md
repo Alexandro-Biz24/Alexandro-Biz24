@@ -52,9 +52,9 @@ Time series + NLP on 150+ hotels reviews • Auto-generated reporting dashboards
 
 ## 🛠️ Technical Stack
 
-`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `TensorFlow` • `SQL` • `PostgreSQL`  
+`Python` • `NumPy` • `Pandas` • `Scikit-learn` • `TensorFlow` `Langchain` •`Langgraph` •`Gymnasium` • `SQL` • `PostgreSQL`  
 `Git` • `Streamlit` • `Power BI` • `Excel VBA`  
-📈 Machine Learning • Time Series • NLP • Portfolio Theory • Optimization  
+📈 Machine Learning • Time Series • Reinforcement Learning • NLP • Portfolio Theory • Optimization  
 
 ---
 
